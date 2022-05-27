@@ -14,3 +14,18 @@ CQRS
 https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf
 https://martinfowler.com/bliki/CQRS.html
 https://medium.com/eleven-labs/cqrs-pattern-c1d6f8517314
+
+
+Middlewares 
+https://www.tutorialsteacher.com/core/aspnet-core-middleware
+https://riptutorial.com/asp-net-core/example/20718/run--map--use
+
+Filters
+https://www.c-sharpcorner.com/article/filters-in-Asp-Net-mvc-5-0-part-twelve/
+
+Middlewares vs Filters
+https://www.thetechplatform.com/post/middleware-and-filters-power-in-asp-net-core
+https://stackoverflow.com/questions/42582758/asp-net-core-middleware-vs-filters
+
+Blazor
+https://blazor-university.com/overview/what-is-blazor/
